@@ -15,7 +15,7 @@ jobs:
         uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          package-name: pyrroline-nest-server
+          package-name: practice-release-please
     outputs:
       release_created: ${{ steps.release.outputs.release_created }}
       tag_name: ${{ steps.release.outputs.tag_name }}
