@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Key5n/practice-release-please/compare/v1.0.1...v1.0.2) (2026-03-23)
+
+
+### Bug Fixes
+
+* a ([5b74f6e](https://github.com/Key5n/practice-release-please/commit/5b74f6e1052eac5d03091e6b135ad1607cf5cad3))
+
 ## [1.0.1](https://github.com/Key5n/practice-release-please/compare/v1.0.0...v1.0.1) (2026-03-23)
 
 
